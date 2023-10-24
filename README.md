@@ -1,2 +1,2 @@
-# ibblog
+# blog
 Blogs
